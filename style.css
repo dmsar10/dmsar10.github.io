@@ -1,0 +1,388 @@
+
+.print-area{
+  width: 100%;
+  margin: auto; 
+}
+
+.box{
+  display: flex;
+}
+
+.side-border{
+  width: 10%;
+  background-color: #2a2a4d;
+  min-height: 100vh;
+}
+
+.text{
+  width: 95%;
+  color: #2a2a4d;
+  font-size: 35px;
+}
+
+.contact {
+  margin-left: auto;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.linkedin {
+  font-size: 9px;
+  color: #2a2a4d;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.email {
+  font-size: 9px;
+  color: #2a2a4d;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.whatsapp {
+  font-size: 9px;
+  color: #2a2a4d;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.icon{
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.About-me {
+  font-size: 20px;
+}
+
+.text-about-me{
+  font-size: 20px;
+}
+
+.Education {
+  font-size: 20px;
+  display: flex;
+}
+
+.Education-Title{
+  width: 20%;
+}
+
+.ForWidthEducation{
+  width: 80%;
+}
+
+.Education-Date {
+  font-size: 5px;
+  margin-top: 0.3cm;
+}
+
+.Date{
+  color: grey;
+  font-size: 12px;
+}
+
+.City{
+  color: grey;
+  font-size: 12px;
+  margin-bottom: 2cm;
+}
+
+.Date-2{
+  color: grey;
+  font-size: 12px;
+}
+
+.City-2{
+  color: grey;
+  font-size: 12px;
+}
+
+.Education-Text {
+  font-size: 6px;
+}
+
+.Campus{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -5px;
+  font-size: 18px;
+}
+
+.Major{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: -5px;
+}
+
+.GPA{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: 53px;
+}
+
+.Campus-2{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -5px;
+  font-size: 18px;
+}
+
+.Major-2{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: -5px;
+}
+
+.GPA-2{
+  color: #2a2a4d;
+  margin-left: 1cm;
+}
+
+.Experiences {
+  font-size: 20px;
+  display: flex;
+}
+
+.Experiences-Title{
+  width: 20%;
+}
+
+.ForWidthExperiences{
+  width: 80%;
+}
+
+.Experience-Date {
+  font-size: 5px;
+  margin-top: 0.3cm;
+}
+
+.DateExperience{
+  color: grey;
+  font-size: 12px;
+}
+
+.PlaceExperience{
+  color: grey;
+  font-size: 12px;
+  margin-bottom: -10px ;
+}
+
+.PlaceExperience-1{
+  color: grey;
+  font-size: 12px;
+}
+
+.CityExperience{
+  color: grey;
+  margin-bottom: 1.577cm;
+  font-size: 12px;
+}
+
+.DateExperience-2{
+  color: grey;
+  font-size: 12px;
+}
+
+.PlaceExperience-2{
+  color: grey;
+  font-size: 12px;
+  
+}
+
+.CityExperience-2{
+  color: grey;
+  margin-bottom: 1.87cm;
+  font-size: 12px;
+}
+
+.DateExperience-3{
+  color: grey;
+  font-size: 12px;
+}
+
+.PlaceExperience-3{
+  color: grey;
+  font-size: 12px;
+  
+}
+
+.CityExperience-3{
+  color: grey;
+  margin-bottom: 1.9cm;
+  font-size: 12px;
+}
+
+.DateExperience-4{
+  color: grey;
+  font-size: 12px;
+}
+
+.PlaceExperience-4{
+  color: grey;
+  font-size: 12px; 
+}
+
+.CityExperience-4{
+  color: grey;
+  margin-bottom: 2cm;
+  font-size: 12px;
+}
+
+.DateExperience-5{
+  color: grey;
+  font-size: 12px;
+}
+
+.PlaceExperience-5{
+  color: grey;
+  font-size: 12px; 
+}
+
+.CityExperience-5{
+  color: grey;
+  margin-bottom: 2cm;
+  font-size: 12px;
+}
+
+.DateExperience-6{
+  color: grey;
+  font-size: 12px;
+}
+
+.PlaceExperience-6{
+  color: grey;
+  font-size: 12px; 
+}
+
+.CityExperience-6{
+  color: grey;
+  font-size: 12px;
+}
+
+.Experience-Text {
+  font-size: 5px;
+}
+
+.Position{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -10px;
+  font-size: 18px;
+}
+
+.Deskjob{
+  color:grey;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: 55px;
+}
+
+.Position-2{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -10px;
+  font-size: 18px;
+}
+
+.Deskjob-2{
+  color:grey;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: 88px;
+}
+
+.Position-3{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -10px;
+  font-size: 18px;
+}
+
+.Deskjob-3{
+  color:grey;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: 93px;
+}
+
+.Position-4{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -10px;
+  font-size: 18px;
+}
+
+.Deskjob-4{
+  color:grey;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: 75px;
+}
+
+.Position-5{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -10px;
+  font-size: 18px;
+}
+
+.Deskjob-5{
+  color:grey;
+  margin-left: 1cm;
+  font-size: 15px;
+  margin-bottom: 94px;
+}
+
+.Position-6{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-bottom: -10px;
+  font-size: 18px;
+}
+
+.Deskjob-6{
+  color:grey;
+  margin-left: 1cm;
+  font-size: 15px;
+}
+
+.Skills{
+  font-size: 20px;
+  display: flex;
+}
+
+.Skills-Title{
+  width: 10%;
+}
+
+.ForWidthSkills{
+  width: 80%;
+}
+
+.Skills-Set{
+  font-size: 5px;
+  margin-top: 0.3cm;
+}
+
+.Skills-tree{
+  color: #2a2a4d;
+  margin-left: 1cm;
+  margin-top: -15px;
+  font-size: 18px;
+}
+
+.Skills-tree-2{
+  color: #2a2a4d;
+  margin-left: 10cm;
+  margin-top: -6.8cm;
+  font-size: 18px;
+}
